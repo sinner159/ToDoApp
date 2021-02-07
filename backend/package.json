@@ -2,7 +2,9 @@
     "name": "todo_app",
     "version": "0.0.0",
     "description": "todo app by Tyler & Ryan",
+    "main": "app.js",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "mongoose": "^5.11.14"
     }
 }
